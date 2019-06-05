@@ -78,7 +78,7 @@ ul, li {
   align-items: center;
   height: 480px;
   background-size: auto 100%;
-  background: url(../img/header/rustic-3441673_1920.jpg) center center;
+  background: url(../img/header/10753162528_IMG_0040.JPG) center center;
 }
 
 #header .logo {
@@ -101,7 +101,7 @@ ul, li {
 #header .logo-title {
   font-family: 'Oswald', sans-serif;
   font-size: 94px;
-  color: #fff;
+  color: #008F00;
   line-height: 1;
   letter-spacing: -2px;
 }
@@ -111,7 +111,7 @@ ul, li {
   font-size: 36px;
   text-align: center;
   margin-top: 30px;
-  color: #fff;
+  color: #008F00;
 }
 
 /*--------------------------------
@@ -245,6 +245,7 @@ ul, li {
   display: block;
   margin-bottom: 8px;
   height: 245px;
+  object-fit: contain;
 }
 
 #works .card-caption {
